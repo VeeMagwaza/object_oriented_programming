@@ -1,0 +1,11 @@
+{
+  "name": "my_jasmine_goodies",
+  "version": "3.5.2",
+  "main": "oopsrc.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Vuyile",
+  "license": "ISC",
+  "description": ""
+}
